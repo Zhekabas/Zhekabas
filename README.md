@@ -15,7 +15,6 @@ Algo trader based in Kyiv. I build and test trading strategies for crypto future
 | [algo-trading-lab](https://github.com/Zhekabas/algo-trading-lab) | LDC + MACD hybrid strategy (Pine Script v6) |
 | [ICT-smart-money-with-alerts](https://github.com/Zhekabas/ICT-smart-money-with-alerts) | ICT Smart Money concepts with alerts |
 | [indicators](https://github.com/Zhekabas/indicators) | 3rd Wave, Trend Follower, BB Impulse |
-| [Range-trader-strategy](https://github.com/Zhekabas/Range-trader-strategy) | Range trading strategy |
 | [defi-farming](https://github.com/Zhekabas/defi-farming) | DeFi farming journal |
 | [airdrops-journal](https://github.com/Zhekabas/airdrops-journal) | Airdrop tracking & checklists |
 
